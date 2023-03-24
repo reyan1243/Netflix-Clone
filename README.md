@@ -8,7 +8,7 @@ Users can add movies and TV shows to their watchlist
 Users can rate movies and TV shows
 Admins can add and remove movies and TV shows
 
-![Netflix-Clone](https://user-images.githubusercontent.com/65946237/227498130-a9f8b1b2-aaf0-463d-858f-99bfb4a1a423.gif)
+![netflix](https://user-images.githubusercontent.com/65946237/227498614-ff37bb9d-8530-4d68-b7da-f069add94ba5.gif)
 
 
 ##Getting Started
@@ -19,10 +19,6 @@ Clone the repository:
 
 Install dependencies:
 ![image](https://user-images.githubusercontent.com/65946237/227497136-0145e299-2ce3-4cd3-bbe5-affcabc066b1.png)
-
-
-Start the server:
-![image](https://user-images.githubusercontent.com/65946237/227497453-5f34107d-d679-4374-832b-94bb6dfcc8f5.png)
 
 
 ## Technologies Used
