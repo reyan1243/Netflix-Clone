@@ -8,6 +8,9 @@ Users can add movies and TV shows to their watchlist
 Users can rate movies and TV shows
 Admins can add and remove movies and TV shows
 
+![Netflix-Clone](https://user-images.githubusercontent.com/65946237/227498130-a9f8b1b2-aaf0-463d-858f-99bfb4a1a423.gif)
+
+
 ##Getting Started
 To get started with this project, follow these steps:
 
@@ -21,7 +24,6 @@ Install dependencies:
 Start the server:
 ![image](https://user-images.githubusercontent.com/65946237/227497453-5f34107d-d679-4374-832b-94bb6dfcc8f5.png)
 
-![Netflix-Clone](https://user-images.githubusercontent.com/65946237/227497858-2e3590de-72d1-40ca-8254-b4b0f2051887.gif)
 
 ## Technologies Used
 MongoDB 
